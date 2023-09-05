@@ -1,4 +1,4 @@
-package com.server.cloud.alarm;
+package com.server.cloud.service;
 
 import org.apache.ibatis.annotations.Mapper;
 
